@@ -1,0 +1,80 @@
+[33mcommit 3fce95294d431acbae72326db71331b102abc09d[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:48:05 2016 +0300
+
+    Изменение имени коммита
+
+[33mcommit 69d932aea6028f02eea470dd36bcfd4858281db8[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:47:15 2016 +0300
+
+    apply stash
+
+[33mcommit 9970e106e387227210f0632ac3b5ff8628f673e1[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:41:27 2016 +0300
+
+    create stash.txt
+
+[33mcommit 518055ea86d9362026992e78fc2e892d5d9c52f9[m
+Merge: f0deb53 6a3a088
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:40:45 2016 +0300
+
+    merge feature.two in master
+
+[33mcommit f0deb53a533234c2b80e3abbabb5c829a3e57007[m
+Merge: 03ca1ae cd1eef9
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:40:00 2016 +0300
+
+    merge feature.one in master
+
+[33mcommit 03ca1ae333ee2a0921e69a5f0f12059e564aeaee[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:38:29 2016 +0300
+
+    create merge.txt in master
+
+[33mcommit 6a3a08849cda165ed37a4c0d2f178eb637f7db78[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:37:49 2016 +0300
+
+    create merge.txt in feature.two
+
+[33mcommit cd1eef962442bcdb4750c8f8b1ab5b51e7bd757e[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:37:10 2016 +0300
+
+    create merge.txt in feature.one
+
+[33mcommit 22a56ce32bac2c17d666b7a515eb0b5536e2dcba[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:06:05 2016 +0300
+
+    добавление banch2.txt в ветку feature.two
+
+[33mcommit 6755c49e313297dcaff19a103ed743f3139d0893[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 02:04:01 2016 +0300
+
+    добавление banch1.txt в ветку feature.one
+
+[33mcommit d7b19722cb0fca88f2d4e185ce59638d16129d1a[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 01:36:22 2016 +0300
+
+    create .release.notes
+
+[33mcommit 2d558f680b24f034f63490ad9b32834cca49c1a2[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 01:33:04 2016 +0300
+
+    create .gitignore
+
+[33mcommit dc8cb9c743b57a0dd59c4c64c543cc34324983e7[m
+Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
+Date:   Mon May 23 01:29:48 2016 +0300
+
+    иницилизирован репозиторий
+    Купляев Алексей
