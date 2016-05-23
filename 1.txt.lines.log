@@ -1,0 +1,72 @@
+commit 23b1ed375cb801859e607745198d7b70d2294061
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Mon May 23 11:31:01 2016 +0300
+
+    РџСЏС‚РѕРµ  РёР·РјРµРЅРµРЅРёРµ  1.txt
+
+diff --git a/1.txt b/1.txt
+index a157565..c1b7156 100644
+--- a/1.txt
++++ b/1.txt
+@@ -2,4 +2,5 @@
+ теперь изменяем.второе 
+ изменение  и 
+ третье и теперь 
+-четвертое
+\ No newline at end of file
++четвертоеи. Пятое 
++изменение 
+\ No newline at end of file
+
+commit 6af9254ea4e3cdfa5b66b25edfd05b05a5ad2215
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Mon May 23 11:30:29 2016 +0300
+
+    Р§РµС‚РІРµСЂС‚РѕРµ  РёР·РјРµРЅРµРЅРёРµ  1.txt
+
+diff --git a/1.txt b/1.txt
+index c4c1b54..a157565 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1,3 +1,5 @@
+ Первое изменение,а 
+ теперь изменяем.второе 
+-изменение  
+\ No newline at end of file
++изменение  и 
++третье и теперь 
++четвертое
+\ No newline at end of file
+
+commit 77d5e8099360148f8ff1bb9a11aa7aaba7795445
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Mon May 23 11:29:46 2016 +0300
+
+    Р’С‚РѕСЂРѕРµ  РёР·РјРµРЅРµРЅРёРµ  1.txt
+
+diff --git a/1.txt b/1.txt
+index 4aa5f18..c4c1b54 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1 +1,3 @@
+-Первое изменение
+\ No newline at end of file
++Первое изменение,а 
++теперь изменяем.второе 
++изменение  
+\ No newline at end of file
+
+commit 45186af5d84162158837dfaa91feba3372eaca4f
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Mon May 23 11:28:29 2016 +0300
+
+    РЎРѕР·РґР°РЅРёРµ 1.txt
+
+diff --git a/1.txt b/1.txt
+new file mode 100644
+index 0000000..4aa5f18
+--- /dev/null
++++ b/1.txt
+@@ -0,0 +1 @@
++Первое изменение
+\ No newline at end of file
