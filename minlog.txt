@@ -17,239 +17,27 @@ f08fa93 create log.txt
 7527236 Revert "create revert.txt"
 f2aecda create reset.txt
 f25c82e create reset2.txt
-* [33mcommit f25c82e25b93bcfea7553f5524410eb23b9a77ce[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 03:02:29 2016 +0300
-[31m|[m 
-[31m|[m     create reset2.txt
-[31m|[m  
-* [33mcommit f2aecdac0cce6d3a983f83cfaaf98331189d5669[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 03:01:51 2016 +0300
-[31m|[m 
-[31m|[m     create reset.txt
-[31m|[m  
-* [33mcommit 7527236b3c3ece62718da264bf0acbc366a43889[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:59:44 2016 +0300
-[31m|[m 
-[31m|[m     Revert "create revert.txt"
-[31m|[m     
-[31m|[m     This reverts commit 646f6345ae11502af6f268c6ab4873a3a47f7c13.
-[31m|[m  
-* [33mcommit 0be84c0a9e3404139eb95d52ba1f39408c245817[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:54:41 2016 +0300
-[31m|[m 
-[31m|[m     create norevert.txt
-[31m|[m  
-* [33mcommit 646f6345ae11502af6f268c6ab4873a3a47f7c13[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:53:59 2016 +0300
-[31m|[m 
-[31m|[m     create revert.txt
-[31m|[m  
-* [33mcommit f08fa933e93f1ef1e6f06c4203dd9d5f1b46ff28[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:53:00 2016 +0300
-[31m|[m 
-[31m|[m     create log.txt
-[31m|[m  
-* [33mcommit 3fce95294d431acbae72326db71331b102abc09d[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:48:05 2016 +0300
-[31m|[m 
-[31m|[m     Изменение имени коммита
-[31m|[m  
-* [33mcommit 69d932aea6028f02eea470dd36bcfd4858281db8[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:47:15 2016 +0300
-[31m|[m 
-[31m|[m     apply stash
-[31m|[m  
-* [33mcommit 9970e106e387227210f0632ac3b5ff8628f673e1[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:41:27 2016 +0300
-[31m|[m 
-[31m|[m     create stash.txt
-[31m|[m    
-*   [33mcommit 518055ea86d9362026992e78fc2e892d5d9c52f9[m
-[32m|[m[33m\[m  Merge: f0deb53 6a3a088
-[32m|[m [33m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[32m|[m [33m|[m Date:   Mon May 23 02:40:45 2016 +0300
-[32m|[m [33m|[m 
-[32m|[m [33m|[m     merge feature.two in master
-[32m|[m [33m|[m     
-* [33m|[m   [33mcommit f0deb53a533234c2b80e3abbabb5c829a3e57007[m
-[34m|[m[35m\[m [33m\[m  Merge: 03ca1ae cd1eef9
-[34m|[m [35m|[m [33m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[34m|[m [35m|[m [33m|[m Date:   Mon May 23 02:40:00 2016 +0300
-[34m|[m [35m|[m [33m|[m 
-[34m|[m [35m|[m [33m|[m     merge feature.one in master
-[34m|[m [35m|[m [33m|[m    
-* [35m|[m [33m|[m [33mcommit 03ca1ae333ee2a0921e69a5f0f12059e564aeaee[m
-[35m|[m [35m|[m [33m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m [35m|[m [33m|[m Date:   Mon May 23 02:38:29 2016 +0300
-[35m|[m [35m|[m [33m|[m 
-[35m|[m [35m|[m [33m|[m     create merge.txt in master
-[35m|[m [35m|[m [33m|[m    
-[35m|[m [35m|[m * [33mcommit 6a3a08849cda165ed37a4c0d2f178eb637f7db78[m
-[35m|[m [35m|[m [35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m [35m|[m [35m|[m Date:   Mon May 23 02:37:49 2016 +0300
-[35m|[m [35m|[m [35m|[m 
-[35m|[m [35m|[m [35m|[m     create merge.txt in feature.two
-[35m|[m [35m|[m [35m|[m    
-[35m|[m * [35m|[m [33mcommit cd1eef962442bcdb4750c8f8b1ab5b51e7bd757e[m
-[35m|[m [35m|[m [35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m [35m|[m [35m|[m Date:   Mon May 23 02:37:10 2016 +0300
-[35m|[m [35m|[m [35m|[m 
-[35m|[m [35m|[m [35m|[m     create merge.txt in feature.one
-[35m|[m [35m|[m [35m|[m    
-[35m|[m [35m|[m * [33mcommit 22a56ce32bac2c17d666b7a515eb0b5536e2dcba[m
-[35m|[m [35m|[m[35m/[m  Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m[35m/[m[35m|[m   Date:   Mon May 23 02:06:05 2016 +0300
-[35m|[m [35m|[m   
-[35m|[m [35m|[m       добавление banch2.txt в ветку feature.two
-[35m|[m [35m|[m   
-[35m|[m * [33mcommit 6755c49e313297dcaff19a103ed743f3139d0893[m
-[35m|[m[35m/[m  Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m   Date:   Mon May 23 02:04:01 2016 +0300
-[35m|[m   
-[35m|[m       добавление banch1.txt в ветку feature.one
-[35m|[m  
-* [33mcommit d7b19722cb0fca88f2d4e185ce59638d16129d1a[m
-[35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m Date:   Mon May 23 01:36:22 2016 +0300
-[35m|[m 
-[35m|[m     create .release.notes
-[35m|[m  
-* [33mcommit 2d558f680b24f034f63490ad9b32834cca49c1a2[m
-[35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m Date:   Mon May 23 01:33:04 2016 +0300
-[35m|[m 
-[35m|[m     create .gitignore
-[35m|[m  
-* [33mcommit dc8cb9c743b57a0dd59c4c64c543cc34324983e7[m
-  Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-  Date:   Mon May 23 01:29:48 2016 +0300
-  
-      иницилизирован репозиторий
-      Купляев Алексей
-* [33mcommit f25c82e25b93bcfea7553f5524410eb23b9a77ce[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 03:02:29 2016 +0300
-[31m|[m 
-[31m|[m     create reset2.txt
-[31m|[m  
-* [33mcommit f2aecdac0cce6d3a983f83cfaaf98331189d5669[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 03:01:51 2016 +0300
-[31m|[m 
-[31m|[m     create reset.txt
-[31m|[m  
-* [33mcommit 7527236b3c3ece62718da264bf0acbc366a43889[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:59:44 2016 +0300
-[31m|[m 
-[31m|[m     Revert "create revert.txt"
-[31m|[m     
-[31m|[m     This reverts commit 646f6345ae11502af6f268c6ab4873a3a47f7c13.
-[31m|[m  
-* [33mcommit 0be84c0a9e3404139eb95d52ba1f39408c245817[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:54:41 2016 +0300
-[31m|[m 
-[31m|[m     create norevert.txt
-[31m|[m  
-* [33mcommit 646f6345ae11502af6f268c6ab4873a3a47f7c13[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:53:59 2016 +0300
-[31m|[m 
-[31m|[m     create revert.txt
-[31m|[m  
-* [33mcommit f08fa933e93f1ef1e6f06c4203dd9d5f1b46ff28[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:53:00 2016 +0300
-[31m|[m 
-[31m|[m     create log.txt
-[31m|[m  
-* [33mcommit 3fce95294d431acbae72326db71331b102abc09d[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:48:05 2016 +0300
-[31m|[m 
-[31m|[m     Изменение имени коммита
-[31m|[m  
-* [33mcommit 69d932aea6028f02eea470dd36bcfd4858281db8[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:47:15 2016 +0300
-[31m|[m 
-[31m|[m     apply stash
-[31m|[m  
-* [33mcommit 9970e106e387227210f0632ac3b5ff8628f673e1[m
-[31m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[31m|[m Date:   Mon May 23 02:41:27 2016 +0300
-[31m|[m 
-[31m|[m     create stash.txt
-[31m|[m    
-*   [33mcommit 518055ea86d9362026992e78fc2e892d5d9c52f9[m
-[32m|[m[33m\[m  Merge: f0deb53 6a3a088
-[32m|[m [33m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[32m|[m [33m|[m Date:   Mon May 23 02:40:45 2016 +0300
-[32m|[m [33m|[m 
-[32m|[m [33m|[m     merge feature.two in master
-[32m|[m [33m|[m     
-* [33m|[m   [33mcommit f0deb53a533234c2b80e3abbabb5c829a3e57007[m
-[34m|[m[35m\[m [33m\[m  Merge: 03ca1ae cd1eef9
-[34m|[m [35m|[m [33m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[34m|[m [35m|[m [33m|[m Date:   Mon May 23 02:40:00 2016 +0300
-[34m|[m [35m|[m [33m|[m 
-[34m|[m [35m|[m [33m|[m     merge feature.one in master
-[34m|[m [35m|[m [33m|[m    
-* [35m|[m [33m|[m [33mcommit 03ca1ae333ee2a0921e69a5f0f12059e564aeaee[m
-[35m|[m [35m|[m [33m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m [35m|[m [33m|[m Date:   Mon May 23 02:38:29 2016 +0300
-[35m|[m [35m|[m [33m|[m 
-[35m|[m [35m|[m [33m|[m     create merge.txt in master
-[35m|[m [35m|[m [33m|[m    
-[35m|[m [35m|[m * [33mcommit 6a3a08849cda165ed37a4c0d2f178eb637f7db78[m
-[35m|[m [35m|[m [35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m [35m|[m [35m|[m Date:   Mon May 23 02:37:49 2016 +0300
-[35m|[m [35m|[m [35m|[m 
-[35m|[m [35m|[m [35m|[m     create merge.txt in feature.two
-[35m|[m [35m|[m [35m|[m    
-[35m|[m * [35m|[m [33mcommit cd1eef962442bcdb4750c8f8b1ab5b51e7bd757e[m
-[35m|[m [35m|[m [35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m [35m|[m [35m|[m Date:   Mon May 23 02:37:10 2016 +0300
-[35m|[m [35m|[m [35m|[m 
-[35m|[m [35m|[m [35m|[m     create merge.txt in feature.one
-[35m|[m [35m|[m [35m|[m    
-[35m|[m [35m|[m * [33mcommit 22a56ce32bac2c17d666b7a515eb0b5536e2dcba[m
-[35m|[m [35m|[m[35m/[m  Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m[35m/[m[35m|[m   Date:   Mon May 23 02:06:05 2016 +0300
-[35m|[m [35m|[m   
-[35m|[m [35m|[m       добавление banch2.txt в ветку feature.two
-[35m|[m [35m|[m   
-[35m|[m * [33mcommit 6755c49e313297dcaff19a103ed743f3139d0893[m
-[35m|[m[35m/[m  Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m   Date:   Mon May 23 02:04:01 2016 +0300
-[35m|[m   
-[35m|[m       добавление banch1.txt в ветку feature.one
-[35m|[m  
-* [33mcommit d7b19722cb0fca88f2d4e185ce59638d16129d1a[m
-[35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m Date:   Mon May 23 01:36:22 2016 +0300
-[35m|[m 
-[35m|[m     create .release.notes
-[35m|[m  
-* [33mcommit 2d558f680b24f034f63490ad9b32834cca49c1a2[m
-[35m|[m Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-[35m|[m Date:   Mon May 23 01:33:04 2016 +0300
-[35m|[m 
-[35m|[m     create .gitignore
-[35m|[m  
-* [33mcommit dc8cb9c743b57a0dd59c4c64c543cc34324983e7[m
-  Author: Aleksey Kuplyaev <a.kuplyaev@gmail.com>
-  Date:   Mon May 23 01:29:48 2016 +0300
-  
-      иницилизирован репозиторий
-      Купляев Алексей
+* [33mbd1eb9e[m create minlog.txt
+* [33mf25c82e[m create reset2.txt
+* [33mf2aecda[m create reset.txt
+* [33m7527236[m Revert "create revert.txt"
+* [33m0be84c0[m create norevert.txt
+* [33m646f634[m create revert.txt
+* [33mf08fa93[m create log.txt
+* [33m3fce952[m Изменение имени коммита
+* [33m69d932a[m apply stash
+* [33m9970e10[m create stash.txt
+*   [33m518055e[m merge feature.two in master
+[32m|[m[33m\[m  
+[32m|[m * [33m6a3a088[m create merge.txt in feature.two
+[32m|[m * [33m22a56ce[m добавление banch2.txt в ветку feature.two
+* [33m|[m   [33mf0deb53[m merge feature.one in master
+[34m|[m[35m\[m [33m\[m  
+[34m|[m * [33m|[m [33mcd1eef9[m create merge.txt in feature.one
+[34m|[m * [33m|[m [33m6755c49[m добавление banch1.txt в ветку feature.one
+[34m|[m [33m|[m[33m/[m  
+* [33m|[m [33m03ca1ae[m create merge.txt in master
+[33m|[m[33m/[m  
+* [33md7b1972[m create .release.notes
+* [33m2d558f6[m create .gitignore
+* [33mdc8cb9c[m иницилизирован репозиторий Купляев Алексей
